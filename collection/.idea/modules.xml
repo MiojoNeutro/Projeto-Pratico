@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/List/ExercicioCinco/ExercicioCinco.iml" filepath="$PROJECT_DIR$/List/ExercicioCinco/ExercicioCinco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/ExercicioDois/ExercicioDois.iml" filepath="$PROJECT_DIR$/List/ExercicioDois/ExercicioDois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/ExercicioQuatro/ExercicioQuatro.iml" filepath="$PROJECT_DIR$/List/ExercicioQuatro/ExercicioQuatro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/ExercicioTres/ExercicioTres.iml" filepath="$PROJECT_DIR$/List/ExercicioTres/ExercicioTres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/ExercicioUm/ExercicioUm.iml" filepath="$PROJECT_DIR$/List/ExercicioUm/ExercicioUm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/collection.iml" filepath="$PROJECT_DIR$/.idea/collection.iml" />
+    </modules>
+  </component>
+</project>
